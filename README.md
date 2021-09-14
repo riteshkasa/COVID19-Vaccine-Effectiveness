@@ -1,7 +1,7 @@
 # COVID19-Vaccine-Effectiveness
 
 CSV Files: 
-- LSTM Neural Network uses the state-history-flipped csv files
+- LSTM Neural Network uses the state-flipped csv files
 - Autoregressive Model uses the state-history csv files
 
 # Abstract
