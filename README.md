@@ -22,8 +22,8 @@ more accurate than the autoregressive model.
 #Results
 Autoregressive (AR) Model Predictions:
 States: California New York Washington Kansas Connecticut
-RMSE 30311.5033 12630.3163 3178.8517 5891.6085 2576.2446
-R2 0.8153 0.8168 0.7327 -0.3837 0.7889
+RMSE: 30311.5033 12630.3163 3178.8517 5891.6085 2576.2446
+R2: 0.8153 0.8168 0.7327 -0.3837 0.7889
 
 Long Short Term Memory (LSTM) Recurrent Neural Network Predictions
 States: California New York Washington Kansas Connecticut
