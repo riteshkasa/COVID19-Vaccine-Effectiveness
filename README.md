@@ -1,7 +1,10 @@
 # COVID19-Vaccine-Effectiveness
 
-The state-flipped csv files are for the LSTM Neural Network and the normal csv files are for the Autoregressive Model.
+CSV Files: 
+- LSTM Neural Network uses the state-history-flipped csv files
+- Autoregressive Model uses the state-history csv files
 
+# Abstract
 The COVID-19 pandemic has been one of the most devastating events in recent history, resulting in
 millions of deaths and destruction on the global economy. While vaccines have been developed to slow the
 spread of the virus and achieve global herd immunity, millions of US citizens refuse to take them due to
