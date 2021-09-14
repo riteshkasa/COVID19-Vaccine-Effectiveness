@@ -20,7 +20,7 @@ square error and coefficient of determination), our results indicated that the L
 more accurate than the autoregressive model.
 
 # Results
-Autoregressive (AR) Model Predictions:
+## Autoregressive (AR) Model Predictions:
 
 States: California New York Washington Kansas Connecticut
 
